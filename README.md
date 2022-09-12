@@ -2,11 +2,11 @@
 
 
 
-### Handles Deposit transactions 
+## Handles Deposit transactions 
 
 
 
-### 50+ staked tokens unlocks AIRDROP timer
+## 50+ staked tokens unlocks AIRDROP timer
 
 
 ### 1. cd into the directory and Install the necessary packages
